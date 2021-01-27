@@ -1,5 +1,5 @@
 # fileanalyse
-Fileanalyse is the programm that will interpretate my programmin language 
+Fileanalyse is the programm that will interpretate my programming language 
 
 To compile the programm - g++ -Wall -g "sourcefile" -o "runfile"
 
